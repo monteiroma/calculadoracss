@@ -1,5 +1,5 @@
 # calculadoracss
-Calculadora sem JS
+Calculadora funcional sem uso de JavaScript
 
 Calculadora funcional feita somente com as tecnologias :
 
