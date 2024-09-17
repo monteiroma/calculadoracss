@@ -1,6 +1,6 @@
 # calculadoracss
 
-Calculadora funcional sem uso de JavaScript e com somentes essas tecnologias:
+Calculadora funcional com essas tecnologias:
 
 - HTML
 - CSS
